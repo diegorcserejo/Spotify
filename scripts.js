@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const albumsData = [
         { name: 'Planet Her', artist: 'Doja Cat', image: './img/album-planet-her.jpg', page: 'album-planet-her.html' },
         { name: 'Beauty In Death', artist: 'Chase Atlantic', image: './img/album-beauty-in-death.jpg', page: 'album-beauty-in-death.html' },
-        { name: 'The Chaos Chapter: Freeze', artist: 'Nicki Minaj', image: './img/album-the-chaos-chapter-fight-or-escape.jpg', page: 'album-the-chaos-chapter-fight-or-escape.html' },
+        { name: 'The Chaos Chapter: Freeze', artist: 'TXT', image: './img/album-the-chaos-chapter-fight-or-escape.jpg', page: 'album-the-chaos-chapter-fight-or-escape.html' },
         { name: 'Born to die', artist: 'Lana Del Rey', image: './img/album-born-to-die.jpg', page: 'album-born-to-die.html' },
         { name: 'Get Up', artist: 'New Jeans', image: './img/album-get-up.jpg', page: 'album-get-up.html' },
         { name: 'Queen', artist: 'Nicki Minaj', image: './img/album-queen.jpg', page: 'album-queen.html' },
